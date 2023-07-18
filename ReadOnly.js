@@ -11,7 +11,7 @@
                 s = n(8),
                 c = n.n(s),
                 i = (n(15), n(2)),
-                l = n.p + "static/media/WWW-logo.1e558311.png",
+                l = "https://cdn.jsdelivr.net/gh/daforeofficial/customJsForRetirementCalculator@main/logo.png",
                 o = n(0),
                 u = function () {
                     return Object(o.jsxs)("div", {
