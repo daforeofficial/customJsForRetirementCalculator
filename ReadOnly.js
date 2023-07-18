@@ -21,7 +21,7 @@
                             src: l,
                             alt: "Wealth Without Wall Street"
                         }), Object(o.jsx)("h1", {
-                            className: "page-title text-black",
+                            className: "page-title",
                             children: "Retirement Calculator"
                         })]
                     })
