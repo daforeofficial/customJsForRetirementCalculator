@@ -9,21 +9,7 @@
                 s = n(8),
                 c = n.n(s),
                 i = (n(15), n(2)),
-                l = n.p + "static/media/WWW-logo.1e558311.png",
                 o = n(0),
-                u = function () {
-                    return Object(o.jsxs)("div", {
-                        className: "header",
-                        children: [Object(o.jsx)("img", {
-                            id: "www-logo",
-                            src: l,
-                            alt: "Wealth Without Wall Street"
-                        }), Object(o.jsx)("h1", {
-                            className: "page-title",
-                            children: "Retirement Calculator"
-                        })]
-                    })
-                },
                 d = n(3),
                 m = n(9),
                 j = n.n(m);

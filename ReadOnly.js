@@ -11,7 +11,7 @@
                 s = n(8),
                 c = n.n(s),
                 i = (n(15), n(2)),
-                l = n.p + "static/media/WWW-logo.1e558311.png",
+                l = "https://cdn.jsdelivr.net/gh/daforeofficial/customJsForRetirementCalculator@main/logo.png",
                 o = n(0),
                 u = function () {
                     return Object(o.jsxs)("div", {
@@ -21,7 +21,7 @@
                             src: l,
                             alt: "Wealth Without Wall Street"
                         }), Object(o.jsx)("h1", {
-                            className: "page-title",
+                            className: "page-title text-black",
                             children: "Retirement Calculator"
                         })]
                     })
@@ -149,7 +149,7 @@
                                 })]
                             }), Object(o.jsx)("h3", {
                                 className: "title",
-                                children: "Wall Street's Plan For You"
+                                children: "R.I.S.E  Plan For You"
                             }), Object(o.jsxs)("div", {
                                 className: "group3",
                                 children: [Object(o.jsxs)("div", {
