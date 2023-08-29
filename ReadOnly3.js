@@ -201,7 +201,7 @@
                                             console.log((parseInt(n) + parseFloat(o)).toFixed(2)), P((parseInt(n) + parseFloat(o)).toFixed(2))
                                         }(p, x + p, C, N, 1), console.log("\n    currentAge=".concat(n, "\n\n    currentIncome=").concat(l, "\n\n    annualSavingsAmount=").concat(p, "\n\n    currentRetirementAssets=").concat(x, "\n\n    requiredRetirementAssets=").concat(C, "\n\n    years=").concat(y, "\n\n\n\n\n    "))
                                     },
-                                    children: "Email Results"
+                                    children: "Calculate"
                                 }), Object(o.jsx)("button", {
                                     onClick: function () {
                                         var e = document.getElementById("app");
